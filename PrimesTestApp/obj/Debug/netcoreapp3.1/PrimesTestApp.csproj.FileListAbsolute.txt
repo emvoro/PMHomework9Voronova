@@ -1,0 +1,14 @@
+C:\Users\Emily\source\repos\PMHomework9Voronova\PMHomework9Voronova\PrimesTestApp\bin\Debug\netcoreapp3.1\PrimesTestApp.exe
+C:\Users\Emily\source\repos\PMHomework9Voronova\PMHomework9Voronova\PrimesTestApp\bin\Debug\netcoreapp3.1\PrimesTestApp.deps.json
+C:\Users\Emily\source\repos\PMHomework9Voronova\PMHomework9Voronova\PrimesTestApp\bin\Debug\netcoreapp3.1\PrimesTestApp.runtimeconfig.json
+C:\Users\Emily\source\repos\PMHomework9Voronova\PMHomework9Voronova\PrimesTestApp\bin\Debug\netcoreapp3.1\PrimesTestApp.runtimeconfig.dev.json
+C:\Users\Emily\source\repos\PMHomework9Voronova\PMHomework9Voronova\PrimesTestApp\bin\Debug\netcoreapp3.1\PrimesTestApp.dll
+C:\Users\Emily\source\repos\PMHomework9Voronova\PMHomework9Voronova\PrimesTestApp\bin\Debug\netcoreapp3.1\PrimesTestApp.pdb
+C:\Users\Emily\source\repos\PMHomework9Voronova\PMHomework9Voronova\PrimesTestApp\obj\Debug\netcoreapp3.1\PrimesTestApp.csprojAssemblyReference.cache
+C:\Users\Emily\source\repos\PMHomework9Voronova\PMHomework9Voronova\PrimesTestApp\obj\Debug\netcoreapp3.1\PrimesTestApp.AssemblyInfoInputs.cache
+C:\Users\Emily\source\repos\PMHomework9Voronova\PMHomework9Voronova\PrimesTestApp\obj\Debug\netcoreapp3.1\PrimesTestApp.AssemblyInfo.cs
+C:\Users\Emily\source\repos\PMHomework9Voronova\PMHomework9Voronova\PrimesTestApp\obj\Debug\netcoreapp3.1\PrimesTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Emily\source\repos\PMHomework9Voronova\PMHomework9Voronova\PrimesTestApp\obj\Debug\netcoreapp3.1\PrimesTestApp.dll
+C:\Users\Emily\source\repos\PMHomework9Voronova\PMHomework9Voronova\PrimesTestApp\obj\Debug\netcoreapp3.1\PrimesTestApp.pdb
+C:\Users\Emily\source\repos\PMHomework9Voronova\PMHomework9Voronova\PrimesTestApp\obj\Debug\netcoreapp3.1\PrimesTestApp.genruntimeconfig.cache
+C:\Users\Emily\source\repos\PMHomework9Voronova\PMHomework9Voronova\PrimesTestApp\bin\Debug\netcoreapp3.1\settings.json
