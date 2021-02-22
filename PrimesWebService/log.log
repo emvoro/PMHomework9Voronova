@@ -62,3 +62,51 @@
 2021-02-22 00:01:19.658 +02:00 [INF] 400 Bad Request.
 2021-02-22 00:01:19.659 +02:00 [INF] Executed endpoint '/primes HTTP: GET'
 2021-02-22 00:01:19.661 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/primes?to=abcd - - - 400 - - 48.0225ms
+2021-02-22 10:12:26.348 +02:00 [INF] Now listening on: http://localhost:5000
+2021-02-22 10:12:26.399 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-22 10:12:26.419 +02:00 [INF] Hosting environment: Development
+2021-02-22 10:12:26.420 +02:00 [INF] Content root path: C:\Users\Emily\source\repos\PMHomework9Voronova\PMHomework9Voronova\PrimesWebService
+2021-02-22 10:12:27.150 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/ - -
+2021-02-22 10:12:27.257 +02:00 [INF] Executing endpoint '/ HTTP: GET'
+2021-02-22 10:12:27.267 +02:00 [INF] Application information requested.
+2021-02-22 10:12:27.282 +02:00 [INF] Application information is: "Primes app by PMA student Voronova Emilia"
+2021-02-22 10:12:27.285 +02:00 [INF] Executed endpoint '/ HTTP: GET'
+2021-02-22 10:12:27.291 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/ - - - 200 - - 148.6541ms
+2021-02-22 10:12:52.496 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/ - -
+2021-02-22 10:12:52.498 +02:00 [INF] Executing endpoint '/ HTTP: GET'
+2021-02-22 10:12:52.500 +02:00 [INF] Application information requested.
+2021-02-22 10:12:52.501 +02:00 [INF] Application information is: "Primes app by PMA student Voronova Emilia"
+2021-02-22 10:12:52.502 +02:00 [INF] Executed endpoint '/ HTTP: GET'
+2021-02-22 10:12:52.504 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/ - - - 200 - - 8.2232ms
+2021-02-22 10:12:52.534 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/primes/2 - -
+2021-02-22 10:12:52.536 +02:00 [INF] Executing endpoint '/primes/{number:int} HTTP: GET'
+2021-02-22 10:12:52.539 +02:00 [INF] Prime number check requested.
+2021-02-22 10:12:52.541 +02:00 [INF] 200. 2 is prime.
+2021-02-22 10:12:52.542 +02:00 [INF] Executed endpoint '/primes/{number:int} HTTP: GET'
+2021-02-22 10:12:52.546 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/primes/2 - - - 200 - - 12.1017ms
+2021-02-22 10:12:52.549 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/primes/4 - -
+2021-02-22 10:12:52.551 +02:00 [INF] Executing endpoint '/primes/{number:int} HTTP: GET'
+2021-02-22 10:12:52.552 +02:00 [INF] Prime number check requested.
+2021-02-22 10:12:52.553 +02:00 [INF] 404. 4 is not prime.
+2021-02-22 10:12:52.558 +02:00 [INF] Executed endpoint '/primes/{number:int} HTTP: GET'
+2021-02-22 10:12:52.560 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/primes/4 - - - 404 - - 10.8367ms
+2021-02-22 10:12:52.567 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/primes?from=0&to=5 - -
+2021-02-22 10:12:52.571 +02:00 [INF] Executing endpoint '/primes HTTP: GET'
+2021-02-22 10:12:52.585 +02:00 [INF] Primes in range requested.
+2021-02-22 10:12:52.587 +02:00 [INF] Primes in diapason 0 - 5 requested.
+2021-02-22 10:12:52.599 +02:00 [INF] 200. Primes in range 0 - 5 are : [2,3,5]
+2021-02-22 10:12:52.601 +02:00 [INF] Executed endpoint '/primes HTTP: GET'
+2021-02-22 10:12:52.606 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/primes?from=0&to=5 - - - 200 - - 39.5980ms
+2021-02-22 10:12:52.613 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/primes?from=-5&to=1 - -
+2021-02-22 10:12:52.618 +02:00 [INF] Executing endpoint '/primes HTTP: GET'
+2021-02-22 10:12:52.620 +02:00 [INF] Primes in range requested.
+2021-02-22 10:12:52.661 +02:00 [INF] Primes in diapason -5 - 1 requested.
+2021-02-22 10:12:52.662 +02:00 [INF] 200. Primes in range -5 - 1 are : []
+2021-02-22 10:12:52.667 +02:00 [INF] Executed endpoint '/primes HTTP: GET'
+2021-02-22 10:12:52.672 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/primes?from=-5&to=1 - - - 200 - - 59.0015ms
+2021-02-22 10:12:52.685 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/primes?to=abcd - -
+2021-02-22 10:12:52.687 +02:00 [INF] Executing endpoint '/primes HTTP: GET'
+2021-02-22 10:12:52.708 +02:00 [INF] Primes in range requested.
+2021-02-22 10:12:52.750 +02:00 [INF] 400 Bad Request.
+2021-02-22 10:12:52.752 +02:00 [INF] Executed endpoint '/primes HTTP: GET'
+2021-02-22 10:12:52.754 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/primes?to=abcd - - - 400 - - 68.8812ms

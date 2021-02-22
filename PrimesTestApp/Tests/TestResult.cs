@@ -6,15 +6,15 @@ namespace PrimesTestApp.Tests
 {
     public class TestResult
     {
-        public string Request { get; set; }
+        public string Request { get; }
 
-        public int ExpectedStatusCode { get; set; }
+        public int ExpectedStatusCode { get; }
         
-        public int ActualStatusCode { get; set; }
+        public int ActualStatusCode { get; }
 
-        public string Response { get; set; }
+        public string Response { get; }
 
-        public bool IsSucceeded { get; set; }
+        public bool IsSucceeded { get; }
 
         public TestResult(string request, int expectedStatusCode, int actualStatusCode, bool isSucceeded)
         {
